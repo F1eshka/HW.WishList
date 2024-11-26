@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\bin\Debug\net8.0-windows\HW.WishList.exe
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\bin\Debug\net8.0-windows\HW.WishList.deps.json
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\bin\Debug\net8.0-windows\HW.WishList.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\bin\Debug\net8.0-windows\HW.WishList.dll
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\bin\Debug\net8.0-windows\HW.WishList.pdb
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.Form1.resources
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.dll
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\refint\HW.WishList.dll
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.pdb
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\HW.WishList.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.WishList\HW.WishList\obj\Debug\net8.0-windows\ref\HW.WishList.dll
